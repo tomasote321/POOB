@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PesadaStone
+comment1.params=
+comment1.target=PesadaStone()
+comment2.params=cellButton
+comment2.target=void\ applyVisualsToButton(javax.swing.JButton)
+comment3.params=
+comment3.target=boolean\ isOwnStone()
+numComments=4

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=size
+comment1.target=Board(int)
+comment10.params=row\ col
+comment10.target=Stone\ getStoneAt(int,\ int)
+comment2.params=
+comment2.target=void\ initializeBoard()
+comment3.params=
+comment3.target=void\ printBoard()
+comment4.params=size
+comment4.target=Board\ createNewBoard(int)
+comment5.params=cellClickListener
+comment5.target=javax.swing.JPanel\ createBoardPanel(java.awt.event.ActionListener)
+comment6.params=
+comment6.target=int\ getSize()
+comment7.params=stone\ row\ col
+comment7.target=void\ placeStone(Stone,\ int,\ int)
+comment8.params=row\ col
+comment8.target=boolean\ isValidPosition(int,\ int)
+comment9.params=row\ col
+comment9.target=boolean\ hasStoneAt(int,\ int)
+numComments=11

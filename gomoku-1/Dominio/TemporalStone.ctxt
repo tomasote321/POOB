@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TemporalStone
+comment1.params=
+comment1.target=TemporalStone()
+comment2.params=cellButton
+comment2.target=void\ applyVisualsToButton(javax.swing.JButton)
+comment3.params=
+comment3.target=boolean\ isSpecialStone()
+numComments=4

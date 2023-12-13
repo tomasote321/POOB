@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Casillas
+comment1.params=x\ y
+comment1.target=Casillas(int,\ int)
+comment2.params=cellButton
+comment2.target=void\ applyVisualsToButton(javax.swing.JButton)
+comment3.params=
+comment3.target=void\ activate()
+comment4.params=
+comment4.target=boolean\ isActivated()
+numComments=5
